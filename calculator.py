@@ -1,36 +1,3 @@
-# print("*******MENU*******")
-# menu={1:"Cookies , $5,
-#       2:"Chips , $3",
-#       3:"Soda , $2"}
-# print(menu)
-# print("Input the nos to select the items:")
-# print("done if completed")
-# selected=[]
-# total=0
-
-# while True:
-#     choice=input()
-#     if choice.isdigit():
-#      choice=int(choice)
-#      if choice==1:
-#             total+=5
-#             print("You have selected",menu[choice])
-#             selected.append(menu[choice])
-#      elif choice==2:
-#             total+=3
-#             print("You have selected",menu[choice])
-#             selected.append(menu[choice])
-#      elif choice==3:
-#             total+=2
-#             print("You have selected",menu[choice])
-#             selected.append(menu[choice])
-#     elif choice=="done":
-#      print("Your order is completed")
-#      print("You selected:", selected)
-#      print("Total cost: $", total)
-#      break
-#     else:print("Invalid input. Please enter a number or 'done'.")
-
 # print("******Calculator********")
 # while True:
 #     num1=input("Enter first number: ")
